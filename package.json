@@ -1,0 +1,14 @@
+{
+  "name": "ts-gulp-template",
+  "version": "1.0.0",
+  "description": "Template project that demonstrates compiling and minifying TypeScript files using Gulp.",
+  "author": "Joe Cowman",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.3",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-typescript": "^4.0.2",
+    "gulp-uglify": "^3.0.0",
+    "typescript": "^2.8.4"
+  }
+}
