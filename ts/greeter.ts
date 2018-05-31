@@ -1,3 +1,5 @@
+//Taken from http://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+
 interface Person {
     firstName: string;
     lastName: string;
